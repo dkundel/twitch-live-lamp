@@ -68,7 +68,7 @@ You'll need the following libaries. Make sure you have them installed in your Ar
 
 ### 7. Wire up your Matrix according to the following diagram
 
-![Diagram of wireup](light-wireup_bb.png)
+<img src="light-wireup_bb.png" alt="Diagram of wireup" height="400" />
 
 ### 8. Start the Node.js process to continously check
 
