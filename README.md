@@ -8,7 +8,7 @@
 
 ## Demo
 
-[Pulsing LED matrix](lamp-in-action.gif)
+![Pulsing LED matrix](lamp-in-action.gif)
 
 ## Requirements
 
@@ -68,7 +68,7 @@ You'll need the following libaries. Make sure you have them installed in your Ar
 
 ### 7. Wire up your Matrix according to the following diagram
 
-[Diagram of wireup](light-wireup_bb.png)
+![Diagram of wireup](light-wireup_bb.png)
 
 ### 8. Start the Node.js process to continously check
 
